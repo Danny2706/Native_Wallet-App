@@ -94,7 +94,7 @@ This project showcases responsive mobile UI development, state management, reusa
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wallet-expense-tracker.git
+git clone https://github.com/Danny2706/Native_Wallet-App.git
 
 cd wallet-expense-tracker
 ```
