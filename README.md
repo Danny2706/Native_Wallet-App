@@ -1,50 +1,207 @@
-# Welcome to your Expo app 👋
+# 💰 Wallet - Personal Expense Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern mobile expense tracking application built with React Native to help users manage their income, expenses, and personal finances through an intuitive and user-friendly interface.
 
-## Get started
+---
 
-1. Install dependencies
+# 📖 Description
 
-   ```bash
-   npm install
-   ```
+Wallet is a personal finance management mobile application that allows users to record daily transactions, monitor expenses, categorize spending, and visualize financial activities. The application was developed to provide a simple yet effective way to manage personal budgets while demonstrating modern mobile application development practices.
 
-2. Start the app
+This project showcases responsive mobile UI development, state management, reusable components, and intuitive financial dashboards using React Native.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+# ✨ Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 💵 Expense Management
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* Add Expenses
+* Edit Transactions
+* Delete Transactions
+* Income Tracking
+* Expense Tracking
+* Transaction History
 
-## Get a fresh project
+## 📊 Financial Dashboard
 
-When you're ready, run:
+* Total Balance Overview
+* Monthly Expense Summary
+* Income Summary
+* Spending Analytics
+* Category Breakdown
+
+## 📂 Categories
+
+* Food & Dining
+* Transportation
+* Shopping
+* Entertainment
+* Bills & Utilities
+* Healthcare
+* Education
+* Custom Categories
+
+## 👤 User Experience
+
+* Clean Mobile UI
+* Responsive Design
+* Fast Navigation
+* Easy Transaction Management
+* User-Friendly Interface
+
+---
+
+# 🚀 Tech Stack
+
+## Mobile
+
+* React Native
+* Expo
+
+## Programming Language
+
+* JavaScript
+
+## Navigation
+
+* React Navigation
+
+## State Management
+
+* React Hooks
+* Context API
+
+## Storage
+
+* AsyncStorage
+
+## UI
+
+* React Native Paper
+* Expo Vector Icons
+
+---
+
+# 📸 Screenshots
+
+<img width="597" height="1280" alt="photo_2026-06-26_23-20-59" src="https://github.com/user-attachments/assets/006741ae-d7de-43d0-b4a1-f119f59017e0" />
+<img width="597" height="1280" alt="photo_2026-06-26_23-21-05" src="https://github.com/user-attachments/assets/2238c0b5-3997-46a3-be8e-8c09cf21c7fc" />
+
+
+# ⚙️ Installation
+
+## Clone Repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/YOUR_USERNAME/wallet-expense-tracker.git
+
+cd wallet-expense-tracker
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Install Dependencies
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## Start Development Server
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+## Run Application
 
-Join our community of developers creating universal apps.
+Android
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```bash
+npx expo run:android
+```
+
+iOS
+
+```bash
+npx expo run:ios
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+wallet-expense-tracker/
+
+├── assets/
+│
+├── components/
+│
+├── screens/
+│
+├── navigation/
+│
+├── context/
+│
+├── hooks/
+│
+├── utils/
+│
+├── services/
+│
+├── App.js
+│
+├── package.json
+│
+└── README.md
+```
+
+---
+
+# 📚 Learning Outcomes
+
+This project helped me improve my knowledge of:
+
+* React Native Development
+* Mobile UI/UX Design
+* State Management
+* Navigation Architecture
+* AsyncStorage
+* Reusable Components
+* Mobile Application Structure
+* Financial Application Design
+* Responsive Mobile Interfaces
+
+---
+
+# 🔮 Future Improvements
+
+* User Authentication
+* Cloud Synchronization
+* Budget Planning
+* Savings Goals
+* Monthly Reports
+* Charts & Graphs
+* Dark Mode
+* Multiple Wallet Support
+* Export Transactions to PDF
+* Multi-Currency Support
+* Push Notifications
+* Biometric Authentication
+* Offline Synchronization
+
+---
+
+# 👨‍💻 Author
+
+**Daniel Kumilachew**
+
+Software Engineering Graduate
+
+* 🌐 Portfolio: https://my-portfolio1-psd2.onrender.com/
+* 🐙 GitHub: https://github.com/Danny2706
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub. Feedback, suggestions, and contributions are always welcome.
